@@ -1,0 +1,37 @@
+h1{
+    color: brown;
+    text-align: center;
+background-color:pink;
+}
+
+h2{
+  font-family: Arial, sans-serif;
+  font-size: 25px;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+}
+  img{
+    width: 300px;
+    height: 400px;
+  }
+  a{
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    font-style: italic;
+  
+  }
+  h4{
+        background-color: lightgrey;
+        width: 300px;
+        border: 5px solid green;
+        padding: 50px;
+        margin: 5px;
+      }
+        h3{
+            background-color: rgb(99, 221, 215);
+            width: 300px;
+            border: 5px solid rgb(102, 128, 0);
+            padding: 50px;
+            margin: 5px;
+      }
